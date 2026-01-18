@@ -1,3 +1,3 @@
 # GYM-Test
 
-Demo Link - [https://powerhouseddn.netlify.app/]
+Demo Link - [POWERHOUSEGYM](https://powerhouseddn.netlify.app/)
